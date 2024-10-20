@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**ArianMelo/ArianMelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou Arian Melo 👍
 
-Here are some ideas to get you started:
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583994108612?text=Ol%C3%A1%2C%20preciso%20de%20seus%20servi%C3%A7os%20de%20programador%2C%20vamos%20conversar%20sobre%20o%20projeto.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arian-melo-dos-santos-b867a5306/)
+
+## Tecnologias que utilizo
+
+<div style="display: inline-block"><br>
+   <img align="center" alt="html5" src="">
+</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianMelo&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArianMelo&show_icons=true&theme=transparent)
+
